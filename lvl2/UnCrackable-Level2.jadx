@@ -1,0 +1,81 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "UnCrackable-Level2"
+  ],
+  "treeExpansions": [
+    [
+      "Files",
+      "Inputs",
+      "UnCrackable-Level2"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "sg.vantagepoint.uncrackable2.MainActivity",
+      "subPath": "smali",
+      "caret": 3117,
+      "view": {
+        "x": 6,
+        "y": 1431
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "sg.vantagepoint.uncrackable2.CodeCheck",
+      "subPath": "java",
+      "caret": 0,
+      "view": {
+        "x": 6,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "sg.vantagepoint.a.b",
+      "subPath": "smali",
+      "caret": 1395,
+      "view": {
+        "x": 0,
+        "y": 1080
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "sg.vantagepoint.a.a",
+      "subPath": "smali",
+      "caret": 691,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    }
+  ],
+  "cacheDir": "C:\\Users\\amitg\\AppData\\Local\\skylot\\jadx\\cache\\projects\\UnCrackable-Level2-dd278096e851ccacf473812116f598fc",
+  "enableLiveReload": false,
+  "searchHistory": [
+    "CodeCheck"
+  ],
+  "pluginOptions": {}
+}
